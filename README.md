@@ -56,7 +56,9 @@ In this project, we set up and utilized a Hadoop cluster for distributed file st
    Note: Since Hadoop is built on Java, it requires a JAR file. Hadoop Streaming allows running Python code by processing input from STDIN.
 
 5. **Check the Output:**
-   - View the output files in the `output` directory after the job completes.
+   - View the output in console.
+   - ![image](https://github.com/user-attachments/assets/bb1ab895-18a9-4b78-b45f-753db1db4d3c)
+
 
 
 
